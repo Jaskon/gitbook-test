@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [Read me](README.md)
 * [Azure Cloud](azure-cloud.md)
 
 ## Group 1
